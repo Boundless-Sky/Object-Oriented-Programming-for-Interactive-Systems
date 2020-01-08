@@ -1,0 +1,3 @@
+﻿  worth_every_penny.cpp
+c:\users\justin\desktop\homework_2\homework_2_solution\problem_2_project\worth_every_penny.cpp(28): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\users\justin\desktop\homework_2\homework_2_solution\problem_2_project\worth_every_penny.cpp(24): fatal error C1075: the left brace '{' was unmatched at the end of the file
